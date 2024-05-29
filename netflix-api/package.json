@@ -1,0 +1,23 @@
+{
+  "name": "netflix-api",
+  "version": "1.0.0",
+  "description": "this is netflix-clone backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "dev": "nodemon server.js",
+    "start": "npm server.js"
+  },
+  "keywords": [
+    "netflix-clone"
+  ],
+  "author": "paras mani",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.1"
+  }
+}
