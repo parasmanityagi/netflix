@@ -5,8 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "npm test",
-    "dev": "nodemon server.js",
-    "start": "npm server.js"
+    "start": "node server.js"
   },
   "keywords": [
     "netflix-clone"
